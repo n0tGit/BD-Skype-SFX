@@ -6,8 +6,8 @@ To do so, you can simply click the green "Code" button and "Download ZIP"; un-zi
 ## Setup NotificationSounds
 1. Go to Settings.
 2. Head to plugins and Search "NotificationSounds".
-   - If you don't have it installed, download it [https://betterdiscord.app/plugin/NotificationSounds](here).
-   - Check [https://docs.betterdiscord.app/users/#plugins](BetterDiscord's Documentation) to see how to install plugins.
+   - If you don't have it installed, download it [here](https://betterdiscord.app/plugin/NotificationSounds).
+   - Check [BetterDiscord's Documentation](https://docs.betterdiscord.app/users/#plugins) to see how to install plugins.
 3. Click the cog button. You should read "Settings" when hovering your cursor on it.
 4. Open the "Add new sound" category.
 5. In "CategoryName", either use this repo's name, or use another name of your choice.
@@ -29,8 +29,8 @@ For now, this repo contains two additional audio files for the FriendNotificatio
 
 1. Go to Settings.
 2. Head to plugins and Search "NotificationSounds".
-   - If you don't have it installed, download it [https://betterdiscord.app/plugin/FriendNotifications](here).
-   - Check [https://docs.betterdiscord.app/users/#plugins](BetterDiscord's Documentation) to see how to install plugins.
+   - If you don't have it installed, download it [here](https://betterdiscord.app/plugin/FriendNotifications).
+   - Check [BetterDiscord's Documentation](https://docs.betterdiscord.app/users/#plugins) to see how to install plugins.
 3. Click the cog button. You should read "Settings" when hovering your cursor on it.
 4. Open the "Notification Sounds" category.
 5. Find the "Toast-Online" section and press the "Browse file" button.
