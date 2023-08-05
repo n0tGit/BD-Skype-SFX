@@ -1,6 +1,6 @@
 # BD-Skype-SFX
 Skype-styled SFX for BetterDiscord's NotificationSounds plugin.
-The following processes will assume you've downloaded all of the sounds.
+The following guides will assume you've downloaded all of the sounds.
 To do so, you can simply click the green "Code" button and "Download ZIP"; un-zip anywhere you want, using 7-Zip or WinRAR.
 
 ## Setup NotificationSounds
