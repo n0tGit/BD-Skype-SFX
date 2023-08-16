@@ -1,0 +1,400 @@
+{
+	"all": {
+		"audios": {
+			"Skype": {
+				"Call Calling": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/calling.mp3",
+				"Call Ringing": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/ring1.mp3",
+				"Deafen": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/Deafen.mp3",
+				"Disconnect": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/Disconnect.mp3",
+				"HotKeys Left": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/hk_left.mp3",
+				"HotKeys Right": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/hk_right.mp3",
+				"Invited To Speak": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/ring2.mp3",
+				"Message": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/msg.mp3",
+				"Message (Direct Message)": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/msg_dm.mp3",
+				"Message (Group Message)": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/msg_dm.mp3",
+				"Message Mentioned": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/mention_user.mp3",
+				"Message Mentioned (@everyone)": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/mention_everyone.mp3",
+				"Message Mentioned (@here)": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/mention_here.mp3",
+				"Message Mentioned (reply)": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/msg_reply.mp3",
+				"Message Mentioned (role)": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/mention_role.mp3",
+				"Mute": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/Mute.mp3",
+				"Push2Talk Start": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/ptt_start.mp3",
+				"Push2Talk Stop": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/ptt_stop.mp3",
+				"Stream Ended": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/stream_end.mp3",
+				"Stream Started": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/stream_start.mp3",
+				"Stream User Joined": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/stream_join.mp3",
+				"Stream User Left": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/stream_left.mp3",
+				"Undeafen": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/Undeafen.mp3",
+				"Unmute": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/Unmute.mp3",
+				"Voice Channel User Join": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/user_join.mp3",
+				"Voice Channel User Leave": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/user_leave.mp3",
+				"Voice Channel User Moved": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/user_moved.mp3"
+			}
+		},
+		"choices": {
+			"activities-rocket-time": {
+				"category": "---",
+				"focus": false,
+				"invisibleMute": false,
+				"mute": false,
+				"sound": "---",
+				"streamMute": false,
+				"volume": 100
+			},
+			"activity_end": {
+				"category": "---",
+				"focus": false,
+				"invisibleMute": false,
+				"mute": false,
+				"sound": "---",
+				"streamMute": false,
+				"volume": 100
+			},
+			"activity_launch": {
+				"category": "---",
+				"focus": false,
+				"invisibleMute": false,
+				"mute": false,
+				"sound": "---",
+				"streamMute": false,
+				"volume": 100
+			},
+			"activity_user_join": {
+				"category": "---",
+				"focus": false,
+				"invisibleMute": false,
+				"mute": false,
+				"sound": "---",
+				"streamMute": false,
+				"volume": 100
+			},
+			"activity_user_left": {
+				"category": "---",
+				"focus": false,
+				"invisibleMute": false,
+				"mute": false,
+				"sound": "---",
+				"streamMute": false,
+				"volume": 100
+			},
+			"call_calling": {
+				"category": "---",
+				"focus": false,
+				"invisibleMute": false,
+				"mute": null,
+				"sound": "---",
+				"streamMute": false,
+				"volume": 100
+			},
+			"call_ringing": {
+				"category": "Skype",
+				"focus": false,
+				"invisibleMute": false,
+				"mute": null,
+				"sound": "Call Ringing",
+				"streamMute": false,
+				"volume": 100
+			},
+			"clip_error": {
+				"category": "---",
+				"focus": false,
+				"invisibleMute": false,
+				"mute": false,
+				"sound": "---",
+				"streamMute": false,
+				"volume": 100
+			},
+			"clip_save": {
+				"category": "---",
+				"focus": false,
+				"invisibleMute": false,
+				"mute": false,
+				"sound": "---",
+				"streamMute": false,
+				"volume": 100
+			},
+			"deafen": {
+				"category": "Skype",
+				"focus": false,
+				"invisibleMute": false,
+				"mute": false,
+				"sound": "Deafen",
+				"streamMute": false,
+				"volume": 100
+			},
+			"disconnect": {
+				"category": "Skype",
+				"focus": false,
+				"invisibleMute": false,
+				"mute": false,
+				"sound": "Disconnect",
+				"streamMute": false,
+				"volume": 100
+			},
+			"highfive_clap": {
+				"category": "---",
+				"focus": false,
+				"invisibleMute": false,
+				"mute": false,
+				"sound": "---",
+				"streamMute": false,
+				"volume": 100
+			},
+			"highfive_whistle": {
+				"category": "---",
+				"focus": false,
+				"invisibleMute": false,
+				"mute": false,
+				"sound": "---",
+				"streamMute": false,
+				"volume": 100
+			},
+			"ddr-down": {
+				"category": "---",
+				"focus": false,
+				"invisibleMute": false,
+				"mute": false,
+				"sound": "---",
+				"streamMute": false,
+				"volume": 100
+			},
+			"ddr-left": {
+				"category": "Skype",
+				"focus": false,
+				"invisibleMute": false,
+				"mute": false,
+				"sound": "HotKeys Left",
+				"streamMute": false,
+				"volume": 100
+			},
+			"ddr-right": {
+				"category": "Skype",
+				"focus": false,
+				"invisibleMute": false,
+				"mute": false,
+				"sound": "HotKeys Right",
+				"streamMute": false,
+				"volume": 100
+			},
+			"ddr-up": {
+				"category": "---",
+				"focus": false,
+				"invisibleMute": false,
+				"mute": false,
+				"sound": "---",
+				"streamMute": false,
+				"volume": 100
+			},
+			"reconnect": {
+				"category": "Skype",
+				"focus": false,
+				"invisibleMute": false,
+				"mute": false,
+				"sound": "Invited To Speak",
+				"streamMute": false,
+				"volume": 100
+			},
+			"message1": {
+				"category": "Skype",
+				"focus": true,
+				"invisibleMute": false,
+				"mute": true,
+				"sound": "Message",
+				"streamMute": false,
+				"volume": 100
+			},
+			"dm": {
+				"category": "Skype",
+				"focus": true,
+				"invisibleMute": false,
+				"mute": true,
+				"sound": "Message (Direct Message)",
+				"streamMute": false,
+				"volume": 100
+			},
+			"groupdm": {
+				"category": "Skype",
+				"focus": true,
+				"invisibleMute": false,
+				"mute": true,
+				"sound": "Message (Group Message)",
+				"streamMute": false,
+				"volume": 100
+			},
+			"mentioned": {
+				"category": "Skype",
+				"focus": true,
+				"invisibleMute": false,
+				"mute": true,
+				"sound": "Message Mentioned",
+				"streamMute": false,
+				"volume": 100
+			},
+			"everyone": {
+				"category": "Skype",
+				"focus": true,
+				"invisibleMute": false,
+				"mute": true,
+				"sound": "Message Mentioned (@everyone)",
+				"streamMute": false,
+				"volume": 100
+			},
+			"here": {
+				"category": "Skype",
+				"focus": true,
+				"invisibleMute": false,
+				"mute": true,
+				"sound": "Message Mentioned (@here)",
+				"streamMute": false,
+				"volume": 100
+			},
+			"reply": {
+				"category": "Skype",
+				"focus": true,
+				"invisibleMute": false,
+				"mute": true,
+				"sound": "Message Mentioned (reply)",
+				"streamMute": false,
+				"volume": 100
+			},
+			"role": {
+				"category": "Skype",
+				"focus": true,
+				"invisibleMute": false,
+				"mute": true,
+				"sound": "Message Mentioned (role)",
+				"streamMute": false,
+				"volume": 100
+			},
+			"mute": {
+				"category": "Skype",
+				"focus": false,
+				"invisibleMute": false,
+				"mute": false,
+				"sound": "Mute",
+				"streamMute": false,
+				"volume": 100
+			},
+			"ptt_start": {
+				"category": "Skype",
+				"focus": false,
+				"invisibleMute": false,
+				"mute": false,
+				"sound": "Push2Talk Start",
+				"streamMute": false,
+				"volume": 100
+			},
+			"ptt_stop": {
+				"category": "Skype",
+				"focus": false,
+				"invisibleMute": false,
+				"mute": false,
+				"sound": "Push2Talk Stop",
+				"streamMute": false,
+				"volume": 100
+			},
+			"stage_waiting": {
+				"category": "---",
+				"focus": false,
+				"invisibleMute": false,
+				"mute": false,
+				"sound": "---",
+				"streamMute": false,
+				"volume": 100
+			},
+			"stream_ended": {
+				"category": "Skype",
+				"focus": false,
+				"invisibleMute": false,
+				"mute": false,
+				"sound": "Stream Ended",
+				"streamMute": false,
+				"volume": 100
+			},
+			"stream_started": {
+				"category": "Skype",
+				"focus": false,
+				"invisibleMute": false,
+				"mute": false,
+				"sound": "Stream Started",
+				"streamMute": false,
+				"volume": 100
+			},
+			"stream_user_joined": {
+				"category": "Skype",
+				"focus": false,
+				"invisibleMute": false,
+				"mute": false,
+				"sound": "Stream User Joined",
+				"streamMute": false,
+				"volume": 100
+			},
+			"stream_user_left": {
+				"category": "Skype",
+				"focus": false,
+				"invisibleMute": false,
+				"mute": false,
+				"sound": "Stream User Left",
+				"streamMute": false,
+				"volume": 100
+			},
+			"success": {
+				"category": "---",
+				"focus": false,
+				"invisibleMute": false,
+				"mute": false,
+				"sound": "---",
+				"streamMute": false,
+				"volume": 100
+			},
+			"undeafen": {
+				"category": "Skype",
+				"focus": false,
+				"invisibleMute": false,
+				"mute": false,
+				"sound": "Undeafen",
+				"streamMute": false,
+				"volume": 100
+			},
+			"unmute": {
+				"category": "Skype",
+				"focus": false,
+				"invisibleMute": false,
+				"mute": false,
+				"sound": "Unmute",
+				"streamMute": false,
+				"volume": 100
+			},
+			"user_join": {
+				"category": "Skype",
+				"focus": false,
+				"invisibleMute": false,
+				"mute": false,
+				"sound": "Voice Channel User Join",
+				"streamMute": false,
+				"volume": 100
+			},
+			"user_leave": {
+				"category": "Skype",
+				"focus": false,
+				"invisibleMute": false,
+				"mute": false,
+				"sound": "Voice Channel User Leave",
+				"streamMute": false,
+				"volume": 100
+			},
+			"user_moved": {
+				"category": "Skype",
+				"focus": false,
+				"invisibleMute": false,
+				"mute": false,
+				"sound": "Voice Channel User Moved",
+				"streamMute": false,
+				"volume": 100
+			}
+		},
+		"volumes": {
+			"globalVolume": 100
+		}
+	}
+}
