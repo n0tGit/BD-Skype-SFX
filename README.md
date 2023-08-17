@@ -45,6 +45,7 @@ You'll need to copy the following text:
 ```
    "audios": {
 			"Skype": {
+				
 				"Call Calling": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/calling.mp3",
 				"Call Ringing": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/ring1.mp3",
 				"Deafen": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/Deafen.mp3",
@@ -71,7 +72,18 @@ You'll need to copy the following text:
 				"Unmute": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/Unmute.mp3",
 				"Voice Channel User Join": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/user_join.mp3",
 				"Voice Channel User Leave": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/user_leave.mp3",
-				"Voice Channel User Moved": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/user_moved.mp3"
+				"Voice Channel User Moved": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/user_moved.mp3",
+				"HotKeys Up": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/new/hk_up.mp3",
+				"HotKeys Down": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/new/hk_down.mp3",
+				"Clip Error": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/new/clip_error.mp3",
+				"Clip Save": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/new/clip_save.mp3",
+				"Stage Waiting": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/new/stage_waiting.mp3",
+				"Activities Rocket Time": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/new/activities-rocket-time.mp3",
+				"Activity Launch": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/new/activity_launch.mp3",
+				"Activity End": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/new/activity_end.mp3",
+				"Activity User Join": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/new/activity_user_join.mp3",
+				"Activity User Left": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/new/activity_user_left.mp3",
+				"Success": "https://github.com/n0tGit/BD-Skype-SFX/raw/main/new/success.mp3"
 			}
 		},
 ```
