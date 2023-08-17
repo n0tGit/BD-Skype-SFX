@@ -160,5 +160,5 @@ See the "Use files" method for alternative download links.
 ### To-do:
 - ~~Rename files~~
 - ~~Make a script for NotificationSounds?~~ Not a script per-se, just a JSON file that saves you from adding sounds one-by-one. I won't do this for FriendsNotifications as I consider two sounds to be enough.
-- ~~Update this Readme~~ Might do again.
-- Add more sounds
+- ~~Update this Readme~~
+- ~~Add more sounds~~ Done. I won't add Poggermode sounds (yet) or Highfive Clap/Whistle.
